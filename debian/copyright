@@ -1,14 +1,14 @@
 This package was debianized by:
 
-    Alex Lee <lee@ccs.neu.edu> on Mon, 28 Feb 2011 16:08:02 -0500
+    Alex Lee <alex@thirdbeat.com> on Mon, 28 Feb 2011 16:08:02 -0500
 
 It was downloaded from:
 
-    https://crew-git.ccs.neu.edu/git/metrics/aggregator
+    https://github.com/easies/wtmp2json
 
 Upstream Author(s):
 
-    Alex Lee <lee@ccs.neu.edu>
+    Alex Lee <alex@thirdbeat.com>
 
 Copyright:
 
@@ -48,4 +48,4 @@ License:
 
 The Debian packaging is:
 
-    Copyright (C) 2011 Alex Lee <lee@ccs.neu.edu>
+    Copyright (C) 2011 Alex Lee <alex@thirdbeat.com>

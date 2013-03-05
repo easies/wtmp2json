@@ -1,7 +1,7 @@
 Source: wtmp2json
 Section: utils
 Priority: extra
-Maintainer: Alex Lee <lee@ccs.neu.edu>
+Maintainer: Alex Lee <alex@thirdbeat.com>
 Build-Depends: debhelper (>= 7), autotools-dev
 Standards-Version: 3.8.4
 Homepage:
